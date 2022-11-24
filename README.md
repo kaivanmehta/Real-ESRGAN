@@ -94,7 +94,7 @@ Other recommended projects:<br>
 1. Clone repo
 
     ```bash
-    git clone https://github.com/xinntao/Real-ESRGAN.git
+    git clone https://github.com/kaivanmehta/Real-ESRGAN.git
     cd Real-ESRGAN
     ```
 
@@ -241,7 +241,6 @@ Results are in the `results` folder
 
 ## 📧 Contact
 
-If you have any question, please email `xintao.wang@outlook.com` or `xintaowang@tencent.com`.
 
 <!---------------------------------- Projects that use Real-ESRGAN --------------------------->
 ## 🧩 Projects that use Real-ESRGAN
